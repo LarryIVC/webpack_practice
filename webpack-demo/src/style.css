@@ -1,0 +1,11 @@
+body {
+  background-color: bisque;
+}
+
+.hello {
+  color: red;
+}
+
+.hello:hover {
+  color: blue;
+}
